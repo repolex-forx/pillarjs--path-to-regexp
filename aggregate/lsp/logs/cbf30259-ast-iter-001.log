@@ -1,0 +1,7 @@
+[2026-04-10T16:46:50Z] === AST ITERATION 1 START | repo=pillarjs/path-to-regexp sha=cbf30259 ===
+[2026-04-10T16:46:50Z] [iter=1] PHASE START: ast repo=pillarjs/path-to-regexp sha=cbf30259
+[2026-04-10T16:46:50Z] [iter=1] Building AST aggregate chunks
+[2026-04-10T16:46:57Z] [iter=1] AST chunks built count=1 triples=84612
+[2026-04-10T16:46:57Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/cbf30259e6d34d6135f9e7dbaa3371e7188f9936/.complete
+[2026-04-10T16:46:57Z] [iter=1] PHASE END: ast elapsed_s=7 elapsed_min=0.1
+[2026-04-10T16:46:57Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
